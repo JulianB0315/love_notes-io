@@ -1670,7 +1670,7 @@
     {
         "day": 279,
         "title": "A Tu Lado, Soy Imparable",
-        "message": "Cuando estamos juntos, no hay nada que no podamos lograr. Eres mi fuerza, mi motivación, mi todo.",
+        "message": "Cuando estamos juntos, no hay nada que no podamos lograr. Eres mi fuerza, my motivación, mi todo.",
         "author": "Tu compañero/a imparable"
     },
     {
@@ -1843,69 +1843,69 @@
     },
     {
         "day": 308,
-        "title": "Siempre Eres Mi Pensamiento",
-        "message": "No importa lo que esté haciendo, mis pensamientos siempre vuelven a ti. Estás en mi mente y en mi corazón, siempre.",
-        "author": "Tu pensador/a constante"
+        "title": "Siempre En Mi Corazón",
+        "message": "No importa a dónde vaya, siempre llevaré tu amor en mi corazón. Eres la esencia que me hace ser quien soy.",
+        "author": "Tu eterno/a amante"
     },
     {
         "day": 309,
-        "title": "Tu Sonrisa Es Mi Alegría",
-        "message": "Tu sonrisa tiene el poder de alegrar mi día. Es como una luz que ilumina mi mundo, y no puedo dejar de admirarla.",
-        "author": "Tu enamorado/a eterno/a"
+        "title": "Tus Ojos Son Mi Reflejo",
+        "message": "Cuando miro tus ojos, veo mi reflejo. En ellos encuentro todo lo que siempre busqué: amor, confianza y felicidad.",
+        "author": "Tu reflejo"
     },
     {
         "day": 310,
-        "title": "Eres Mi Estrella",
-        "message": "Eres mi estrella en la oscuridad. Cuando todo parece incierto, tu amor es lo que me guía y me da esperanza.",
-        "author": "Tu seguidor/a fiel"
+        "title": "La Fuerza de Nuestro Amor",
+        "message": "Nuestro amor es fuerte, más allá de cualquier obstáculo. Cada día me doy cuenta de lo inquebrantable que es lo que sentimos.",
+        "author": "Tu compañero/a fuerte"
     },
     {
         "day": 311,
-        "title": "Tu Amor Es Mi Hogar",
-        "message": "No hay lugar como tu corazón. Es el hogar al que siempre quiero regresar, donde siempre me siento amado/a.",
-        "author": "Tu amante fiel"
+        "title": "Eres Mi Todo",
+        "message": "Mi vida tiene sentido porque te tengo a ti. Eres todo lo que he soñado y más.",
+        "author": "Tu amante eterno"
     },
     {
         "day": 312,
-        "title": "Un Amor Como El Nuestro",
-        "message": "Un amor como el nuestro es raro, y lo valoro cada día más. Gracias por hacerme sentir tan especial.",
-        "author": "Tu afortunado/a"
+        "title": "Tu Amor Me Inspira",
+        "message": "Cada día contigo me inspira a ser una mejor persona. Tu amor me da fuerza para seguir mis sueños.",
+        "author": "Tu admirador/a"
     },
     {
         "day": 313,
-        "title": "En Ti Encuentro Mi Paz",
-        "message": "Cuando todo es caótico, en ti encuentro la calma. Tu amor me da paz y me permite ser yo mismo/a.",
-        "author": "Tu alma tranquila"
+        "title": "Siempre Seremos Uno",
+        "message": "No hay barreras entre nosotros, solo un amor tan profundo que nos une. Siempre seremos uno, más allá de todo.",
+        "author": "Tu otra mitad"
     },
     {
         "day": 314,
-        "title": "Nuestro Amor Es Un Viaje",
-        "message": "Este amor es un viaje que nunca quiero que termine. Cada día contigo es una nueva aventura, llena de amor y aprendizaje.",
-        "author": "Tu compañero/a en este viaje"
+        "title": "El Mundo Es Más Hermoso Contigo",
+        "message": "Cuando estás a mi lado, todo en el mundo se vuelve más brillante, más hermoso. Tú haces que mi vida sea increíble.",
+        "author": "Tu admirador/a constante"
     },
     {
         "day": 315,
-        "title": "Eres Mi Todo",
-        "message": "No necesito nada más en este mundo, porque te tengo a ti. Eres todo lo que he soñado, todo lo que necesito.",
-        "author": "Tu todo"
+        "title": "Nuestro Amor Es Eterno",
+        "message": "Este amor que compartimos no tiene fin. No importa el tiempo ni las circunstancias, siempre será eterno.",
+        "author": "Tu compañero/a para siempre"
     },
     {
         "day": 316,
-        "title": "Siempre A Tu Lado",
-        "message": "Mi lugar favorito es a tu lado, no importa dónde estemos. Mientras esté contigo, todo estará bien.",
-        "author": "Tu compañero/a fiel"
+        "title": "Cada Día Te Amo Más",
+        "message": "Hoy te amo más que ayer, pero menos que mañana. Cada día que pasa, mi amor por ti crece más.",
+        "author": "Tu amante fiel"
     },
     {
         "day": 317,
-        "title": "Mi Corazón Es Tuyo",
-        "message": "Desde el primer día en que te vi, mi corazón te pertenece. Eres la razón por la que late con fuerza.",
-        "author": "Tu enamorado/a fiel"
+        "title": "Eres Mi Razón de Vivir",
+        "message": "Cada razón que tengo para vivir se reduce a una sola: tú. Eres mi vida, mi todo.",
+        "author": "Tu razón de existir"
     },
     {
         "day": 318,
-        "title": "Nuestro Amor Es Mi Fuerza",
-        "message": "Lo que más me da fuerzas en la vida es tu amor. Saberte a mi lado me hace sentir capaz de superar cualquier obstáculo.",
-        "author": "Tu fuerza"
+        "title": "Contigo Soy Completo/a",
+        "message": "Cuando estoy contigo, me siento completo/a. Juntos, somos la perfección que siempre soñé.",
+        "author": "Tu otra mitad"
     },
     {
         "day": 319,
@@ -2188,5 +2188,11 @@
         "title": "Un Año De Amor",
         "message": "Hoy cerramos un ciclo de 365 días de amor, pero mi amor por ti es eterno. Que este amor continúe siempre, cada día más.",
         "author": "Tu compañero/a para siempre"
+    },
+    {
+        "day": 366,
+        "title": "Dedicatoria Especial",
+        "message": "Jhosselin, cada día contigo es un regalo que atesoro. Eres la luz que ilumina mi vida y el amor que llena mi corazón.",
+        "author": "Tu eterno admirador"
     }
 ]
